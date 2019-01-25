@@ -1,12 +1,12 @@
 $(document).ready(function() {
 //declaring variables
-    var questions = ["In the Simpsons episode, Bart Gets an F, Lisa has the mumps", "Dave Grohl drums for the Foo Fighters", "Touch is the sense most commonly linked with memory", "Rabbits are raised in a warren.","The Sky is blue."];
+    var questions = ["In the Simpsons episode, Bart Gets an F, Lisa has the mumps", "Dave Grohl drums for the Foo Fighters", "Touch is the sense most commonly linked with memory", "Rabbits are raised in a warren.","The sky is blue."];
 
-  var answers = ["false", "true", "false","true","true"]
+  var answers = ["false", "false", "false","true","true"]
     
     var score = 0;
     var questionIndex = 0;
-    var secondsLeft = 120;
+    var secondsLeft = 30;
     function startClock(){
         secondsLeft--
         if(secondsLeft>0){

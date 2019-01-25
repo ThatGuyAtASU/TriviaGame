@@ -1,0 +1,38 @@
+#title{
+   text-align:center;
+   margin-left:40px;
+   margin-top:0px;
+   margin-right:40px;
+}
+
+#instructions{
+    text-align:center;
+   margin-left:40px;
+   margin-right:40px;
+}
+
+#timer{
+text-align:center;
+   margin-left:40px;
+   margin-right:40px;
+}
+
+#questionsdiv{
+    text-align:center;
+    margin-left:40px;
+    margin-right:40px;
+
+}
+
+#complete{
+    text-align:center;
+    margin-left:45%;
+
+}
+
+#scoreboard{
+    text-align:center;
+    margin-left:40px;
+    margin-right:40px;
+
+}
