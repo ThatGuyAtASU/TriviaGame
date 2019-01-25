@@ -6,7 +6,7 @@ $(document).ready(function() {
     
     var score = 0;
     var questionIndex = 0;
-    var secondsLeft = 5;
+    var secondsLeft = 120;
     function startClock(){
         secondsLeft--
         if(secondsLeft>0){
